@@ -1,5 +1,11 @@
 To reproduce this issue, run:
 
+```
+yarn dev
+```
+
+OR
+
 ```sh
 yarn build
 ```
